@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumIntro.WPF", "EnumIntro.WPF\EnumIntro.WPF.csproj", "{0CA3CC75-704B-4297-9C3E-3B1ED2CA4B09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EnumIntro.WPF", "EnumIntro.WPF\01-EnumIntro.WPF.csproj", "{0CA3CC75-704B-4297-9C3E-3B1ED2CA4B09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windrichtingen.WPF", "Windrichtingen.WPF\Windrichtingen.WPF.csproj", "{9C17073C-94FA-4177-804F-2464A57C6045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Windrichtingen.WPF", "Windrichtingen.WPF\02-Windrichtingen.WPF.csproj", "{9C17073C-94FA-4177-804F-2464A57C6045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ArrayLeeftijden.WPF", "ArrayLeeftijden.WPF\03-ArrayLeeftijden.WPF.csproj", "{3EFD1705-1420-412E-ABA9-6F224BCF679F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9C17073C-94FA-4177-804F-2464A57C6045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C17073C-94FA-4177-804F-2464A57C6045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C17073C-94FA-4177-804F-2464A57C6045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFD1705-1420-412E-ABA9-6F224BCF679F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFD1705-1420-412E-ABA9-6F224BCF679F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFD1705-1420-412E-ABA9-6F224BCF679F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFD1705-1420-412E-ABA9-6F224BCF679F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

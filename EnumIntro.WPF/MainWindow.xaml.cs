@@ -7,7 +7,7 @@ namespace EnumIntro.WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        enum Seizoen { Herfst, Winter, Lente, Zomer }
+        public enum Seizoen { Herfst, Winter, Lente, Zomer }
 
         public MainWindow()
         {

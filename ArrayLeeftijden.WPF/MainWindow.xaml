@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
     <Grid>
-        
+        <Button x:Name="btn1" Content="Array 1" HorizontalAlignment="Left" Margin="46,33,0,0" VerticalAlignment="Top" Width="75" Click="Btn1_Click"/>
+        <Button x:Name="btnArr0" Content="Leeftijd 0" HorizontalAlignment="Left" Margin="46,74,0,0" VerticalAlignment="Top" Width="75" Click="BtnArr0_Click"/>
+        <Button x:Name="btnArr1" Content="Leeftijd 1" HorizontalAlignment="Left" Margin="46,99,0,0" VerticalAlignment="Top" Width="75" Click="BtnArr1_Click"/>
+        <Button x:Name="btnArr2" Content="Leeftijd 2" HorizontalAlignment="Left" Margin="46,124,0,0" VerticalAlignment="Top" Width="75" Click="BtnArr2_Click"/>
+        <Button x:Name="btnArr3" Content="Leeftijd 3" HorizontalAlignment="Left" Margin="46,149,0,0" VerticalAlignment="Top" Width="75" Click="BtnArr3_Click"/>
+        <Button x:Name="btnKaaprenVaarders" Content="Kaaprenvaarders" HorizontalAlignment="Left" Margin="46,208,0,0" VerticalAlignment="Top" Width="145" Height="43" Click="BtnKaaprenVaarders_Click"/>
+        <Button x:Name="btn2dimenties" Content="2 dimenties" HorizontalAlignment="Left" Margin="46,283,0,0" VerticalAlignment="Top" Width="75" Click="Btn2dimenties_Click"/>
+
     </Grid>
 </Window>
